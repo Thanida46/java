@@ -1,6 +1,6 @@
 package interface_Geome;
 
-/* public interface GeometricOgject {
+ public interface GeometricOgject {
         double getArea() ;
         double getPerimeter() ;
-}*/
+}
